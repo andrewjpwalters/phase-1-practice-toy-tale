@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Gorm",
+      "image": "https://images.squarespace-cdn.com/content/v1/5f6cf458e286b92592bf2762/1602527068409-1VF51K9B5UVUL4B44IBF/SuperNeutral+5+Quote+Graphic.png?format=1500w",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
